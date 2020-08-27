@@ -1,6 +1,6 @@
 # Sticker Review
 
-This is where to get *awesome* stickers for your business.
+This is where to get **awesome** stickers for your business.
 
 [Sticker Mule](https://stickermule.com)
 
@@ -9,3 +9,6 @@ This is where to get *awesome* stickers for your business.
 [Sticker Robot](https://stickerobot.com)
 
 
+### Got a custom sticker printer you like?
+
+Submit an issue and I'll add it to the list!

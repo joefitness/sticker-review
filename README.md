@@ -6,6 +6,6 @@ This is where to get *awesome* stickers for your business.
 
 [Sticker Giant](https://stickergiant.com)
 
-[Sticker Robot](https://stickerrobot.com)
+[Sticker Robot](https://stickerobot.com)
 
 

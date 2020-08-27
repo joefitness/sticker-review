@@ -12,3 +12,5 @@ This is where to get **awesome** stickers for your business.
 ### Got a custom sticker printer you like?
 
 Submit an issue and I'll add it to the list!
+
+### Testing out beta branch
